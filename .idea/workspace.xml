@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="17b487db-aaf8-4cfb-9762-5cf613c7341f" name="Default Changelist" comment="" />
+    <list default="true" id="c135e8a3-e886-49a5-b535-a73902cb212c" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,20 +13,7 @@
       <ProjectState />
     </projectState>
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Class" />
-      </list>
-    </option>
-  </component>
-  <component name="ProjectId" id="1toxxkRagKJQvFwZhjGi4ZQGO3B" />
-  <component name="RecentsManager">
-    <key name="CreateClassDialog.RecentsKey">
-      <recent name="co.com.choucair.certification.testchoucair.tasks" />
-      <recent name="co.com.choucair.certification.testchoucair.stepdefinitions" />
-    </key>
-  </component>
+  <component name="ProjectId" id="1tzcNiZVmlYDsW1E9GbcJPDf4da" />
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -71,11 +58,11 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="17b487db-aaf8-4cfb-9762-5cf613c7341f" name="Default Changelist" comment="" />
-      <created>1623449491578</created>
+      <changelist id="c135e8a3-e886-49a5-b535-a73902cb212c" name="Default Changelist" comment="" />
+      <created>1623775319715</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1623449491578</updated>
+      <updated>1623775319715</updated>
     </task>
     <servers />
   </component>

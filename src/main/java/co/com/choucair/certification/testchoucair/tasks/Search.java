@@ -17,23 +17,19 @@ public class Search implements Task {
     private String strComputer;
     private String strVersion;
     private String strLanguage;
-    private String strMobile;
-    private String strModel;
-    private String strSystem;
 
-    public Search(String strComputer, String strVersion, String strLanguage, String strMobile, String strModel, String strSystem) {
+
+    public Search(String strComputer, String strVersion, String strLanguage) {
         this.strComputer = strComputer;
         this.strVersion = strVersion;
         this.strLanguage = strLanguage;
-        this.strMobile = strMobile;
-        this.strModel = strModel;
-        this.strSystem = strSystem;
+
     }
 
 
 
-    public static Search theDevice(String strComputer, String strVersion, String strLanguage, String strMobile, String strModel, String strSystem) {
-        return Tasks.instrumented(Search.class,strComputer,strVersion,strLanguage,strMobile,strModel,strSystem);
+    public static Search theDevice(String strComputer, String strVersion, String strLanguage) {
+        return Tasks.instrumented(Search.class,strComputer,strVersion,strLanguage);
     }
 
 
